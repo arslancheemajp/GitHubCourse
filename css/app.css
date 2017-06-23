@@ -58,3 +58,7 @@ h2 {
 .destination:hover h2 {
     transform: rotate(0deg);
 }
+
+.forkedCommit1 {
+     transform: rotate(0deg);
+}
